@@ -1,0 +1,72 @@
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\RogStrix2018\Desktop\datatable c#\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\RogStrix2018\Desktop\datatable_c#\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
